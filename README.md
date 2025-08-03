@@ -12,7 +12,6 @@ Personal portfolio of service operations models and problem-solving exercises co
 ## 🧾 Overview / Resumen
 
 This portfolio includes real-world service operations problems solved during my studies in *Service Operations Management* at Hofstra University (New York, USA), under the instruction of Prof. Ping Su.
-
 Each project simulates a decision-making scenario related to service capacity, overbooking, yield management, process analysis, or queuing — solved using Excel or manual analysis.
 
 Este repositorio reúne ejercicios resueltos de operaciones de servicio desarrollados durante mis estudios en Hofstra con la profesora Ping Su.  
@@ -97,6 +96,7 @@ Cada carpeta incluye:
 🔗 LinkedIn: [www.linkedin.com/in/belenllatasbeny](https://www.linkedin.com/in/belenllatasbeny)
 
 This portfolio is part of my goal to build a hybrid logistics-finance profile, combining technical knowledge with international experience.  
+
 Este porfolio forma parte de mi objetivo profesional: construir un perfil híbrido en logística y finanzas, combinando conocimientos técnicos con experiencia internacional.
 
 ---
